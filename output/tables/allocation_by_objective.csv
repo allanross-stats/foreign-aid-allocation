@@ -1,0 +1,217 @@
+"country","iso3c","region","income","infant_mort","cc_est","passes_hurdle","Objective","Allocation_musd"
+"India","IND","South Asia","Lower middle income",23.3,-0.298,TRUE,"Governance hurdle + need",332.3521
+"Ethiopia","ETH","Sub-Saharan Africa","Low income",34.5,-0.4336,TRUE,"Governance hurdle + need",108.2697
+"Niger","NER","Sub-Saharan Africa","Low income",65.6,-0.6457,TRUE,"Governance hurdle + need",66.5094
+"Kenya","KEN","Sub-Saharan Africa","Lower middle income",34.2,-0.7919,TRUE,"Governance hurdle + need",45.3737
+"Mozambique","MOZ","Sub-Saharan Africa","Low income",43.7,-1.0432,TRUE,"Governance hurdle + need",45.1996
+"Uganda","UGA","Sub-Saharan Africa","Low income",35.9,-1.1204,TRUE,"Governance hurdle + need",44.6986
+"Cote d'Ivoire","CIV","Sub-Saharan Africa","Lower middle income",44.8,-0.2648,TRUE,"Governance hurdle + need",43.5319
+"Madagascar","MDG","Sub-Saharan Africa","Low income",43,-1.028,TRUE,"Governance hurdle + need",40.5387
+"Mali","MLI","Sub-Saharan Africa","Low income",47.5,-0.9653,TRUE,"Governance hurdle + need",36.8549
+"Tanzania","TZA","Sub-Saharan Africa","Lower middle income",28.7,-0.3115,TRUE,"Governance hurdle + need",35.2336
+"Burkina Faso","BFA","Sub-Saharan Africa","Low income",43.6,-0.2401,TRUE,"Governance hurdle + need",30.6104
+"Angola","AGO","Sub-Saharan Africa","Lower middle income",32.1,-0.6439,TRUE,"Governance hurdle + need",26.2646
+"Malawi","MWI","Sub-Saharan Africa","Low income",38,-0.6464,TRUE,"Governance hurdle + need",21.7522
+"Benin","BEN","Sub-Saharan Africa","Lower middle income",45.2,-0.2357,TRUE,"Governance hurdle + need",20.0203
+"Zambia","ZMB","Sub-Saharan Africa","Lower middle income",34.6,-0.4242,TRUE,"Governance hurdle + need",17.5876
+"Sierra Leone","SLE","Sub-Saharan Africa","Low income",54.6,-0.6923,TRUE,"Governance hurdle + need",16.248
+"Ghana","GHA","Sub-Saharan Africa","Lower middle income",27.5,-0.1999,TRUE,"Governance hurdle + need",15.5133
+"Liberia","LBR","Sub-Saharan Africa","Low income",63.2,-1.0275,TRUE,"Governance hurdle + need",13.099
+"Senegal","SEN","Sub-Saharan Africa","Lower middle income",28.9,0.1264,TRUE,"Governance hurdle + need",9.7035
+"Rwanda","RWA","Sub-Saharan Africa","Low income",29.4,0.6173,TRUE,"Governance hurdle + need",7.853
+"Togo","TGO","Sub-Saharan Africa","Lower middle income",34.8,-0.6645,TRUE,"Governance hurdle + need",7.0252
+"Nepal","NPL","South Asia","Lower middle income",22.2,-0.629,TRUE,"Governance hurdle + need",5.0714
+"Lesotho","LSO","Sub-Saharan Africa","Lower middle income",56.3,-0.3107,TRUE,"Governance hurdle + need",4.6042
+"Namibia","NAM","Sub-Saharan Africa","Lower middle income",36.4,0.1677,TRUE,"Governance hurdle + need",2.788
+"Gambia, The","GMB","Sub-Saharan Africa","Low income",32.7,-0.3007,TRUE,"Governance hurdle + need",2.0007
+"Timor-Leste","TLS","East Asia & Pacific","Lower middle income",34.6,-0.3717,TRUE,"Governance hurdle + need",1.1557
+"Kiribati","KIR","East Asia & Pacific","Lower middle income",38.8,0.3783,TRUE,"Governance hurdle + need",0.1408
+"Afghanistan","AFG","Middle East, North Africa, Afghanistan & Pakistan","Low income",48.3,-1.3031,FALSE,"Governance hurdle + need",0
+"Burundi","BDI","Sub-Saharan Africa","Low income",30.5,-1.4598,FALSE,"Governance hurdle + need",0
+"Bangladesh","BGD","South Asia","Lower middle income",24.4,-1.0975,FALSE,"Governance hurdle + need",0
+"Bolivia","BOL","Latin America & Caribbean","Lower middle income",14.2,-0.9894,FALSE,"Governance hurdle + need",0
+"Bhutan","BTN","South Asia","Lower middle income",13.7,1.4698,TRUE,"Governance hurdle + need",0
+"Central African Republic","CAF","Sub-Saharan Africa","Low income",58.8,-1.3086,FALSE,"Governance hurdle + need",0
+"Cameroon","CMR","Sub-Saharan Africa","Lower middle income",40.2,-1.2152,FALSE,"Governance hurdle + need",0
+"Congo, Dem. Rep.","COD","Sub-Saharan Africa","Low income",56.4,-1.518,FALSE,"Governance hurdle + need",0
+"Congo, Rep.","COG","Sub-Saharan Africa","Lower middle income",27,-1.4201,FALSE,"Governance hurdle + need",0
+"Comoros","COM","Sub-Saharan Africa","Lower middle income",35,-1.1414,FALSE,"Governance hurdle + need",0
+"Djibouti","DJI","Middle East, North Africa, Afghanistan & Pakistan","Lower middle income",43,-0.8851,FALSE,"Governance hurdle + need",0
+"Egypt, Arab Rep.","EGY","Middle East, North Africa, Afghanistan & Pakistan","Lower middle income",20.8,-0.8091,FALSE,"Governance hurdle + need",0
+"Eritrea","ERI","Sub-Saharan Africa","Low income",24.7,-1.6323,FALSE,"Governance hurdle + need",0
+"Guinea","GIN","Sub-Saharan Africa","Lower middle income",59.8,-1.1814,FALSE,"Governance hurdle + need",0
+"Guinea-Bissau","GNB","Sub-Saharan Africa","Low income",42.1,-1.3481,FALSE,"Governance hurdle + need",0
+"Honduras","HND","Latin America & Caribbean","Lower middle income",12.8,-1.2318,FALSE,"Governance hurdle + need",0
+"Haiti","HTI","Latin America & Caribbean","Lower middle income",39,-1.5368,FALSE,"Governance hurdle + need",0
+"Kyrgyz Republic","KGZ","Europe & Central Asia","Lower middle income",14.8,-1.148,FALSE,"Governance hurdle + need",0
+"Cambodia","KHM","East Asia & Pacific","Lower middle income",16.4,-1.2334,FALSE,"Governance hurdle + need",0
+"Lao PDR","LAO","East Asia & Pacific","Lower middle income",27.2,-0.9959,FALSE,"Governance hurdle + need",0
+"Lebanon","LBN","Middle East, North Africa, Afghanistan & Pakistan","Lower middle income",15.3,-1.3068,FALSE,"Governance hurdle + need",0
+"Morocco","MAR","Middle East, North Africa, Afghanistan & Pakistan","Lower middle income",14.7,-0.5141,TRUE,"Governance hurdle + need",0
+"Myanmar","MMR","East Asia & Pacific","Lower middle income",32.8,-1.2487,FALSE,"Governance hurdle + need",0
+"Mauritania","MRT","Sub-Saharan Africa","Lower middle income",30.2,-0.9764,FALSE,"Governance hurdle + need",0
+"Nigeria","NGA","Sub-Saharan Africa","Lower middle income",69.8,-1.1143,FALSE,"Governance hurdle + need",0
+"Nicaragua","NIC","Latin America & Caribbean","Lower middle income",9.4,-1.4251,FALSE,"Governance hurdle + need",0
+"Pakistan","PAK","Middle East, North Africa, Afghanistan & Pakistan","Lower middle income",48.2,-1.0885,FALSE,"Governance hurdle + need",0
+"Papua New Guinea","PNG","East Asia & Pacific","Lower middle income",31.3,-0.7961,FALSE,"Governance hurdle + need",0
+"Korea, Dem. People's Rep.","PRK","East Asia & Pacific","Low income",13.3,-1.5581,FALSE,"Governance hurdle + need",0
+"West Bank and Gaza","PSE","Middle East, North Africa, Afghanistan & Pakistan","Lower middle income",17,-0.5699,TRUE,"Governance hurdle + need",0
+"Sudan","SDN","Sub-Saharan Africa","Low income",42.9,-1.5615,FALSE,"Governance hurdle + need",0
+"Solomon Islands","SLB","East Asia & Pacific","Lower middle income",16.4,-0.1388,TRUE,"Governance hurdle + need",0
+"Somalia, Fed. Rep.","SOM","Sub-Saharan Africa","Low income",65.4,-1.7859,FALSE,"Governance hurdle + need",0
+"South Sudan","SSD","Sub-Saharan Africa","Low income",71.9,-2.0559,FALSE,"Governance hurdle + need",0
+"Sao Tome and Principe","STP","Sub-Saharan Africa","Lower middle income",9.2,0.108,TRUE,"Governance hurdle + need",0
+"Eswatini","SWZ","Sub-Saharan Africa","Lower middle income",42.2,-0.8072,FALSE,"Governance hurdle + need",0
+"Syrian Arab Republic","SYR","Middle East, North Africa, Afghanistan & Pakistan","Low income",17.7,-1.701,FALSE,"Governance hurdle + need",0
+"Chad","TCD","Sub-Saharan Africa","Low income",56.3,-1.3931,FALSE,"Governance hurdle + need",0
+"Tajikistan","TJK","Europe & Central Asia","Lower middle income",23.5,-1.2325,FALSE,"Governance hurdle + need",0
+"Tunisia","TUN","Middle East, North Africa, Afghanistan & Pakistan","Lower middle income",9.7,-0.2157,TRUE,"Governance hurdle + need",0
+"Uzbekistan","UZB","Europe & Central Asia","Lower middle income",12.8,-0.7032,TRUE,"Governance hurdle + need",0
+"Venezuela, RB","VEN","Latin America & Caribbean","Lower middle income",21.2,-1.5794,FALSE,"Governance hurdle + need",0
+"Vanuatu","VUT","East Asia & Pacific","Lower middle income",14.4,-0.1452,TRUE,"Governance hurdle + need",0
+"Yemen, Rep.","YEM","Middle East, North Africa, Afghanistan & Pakistan","Low income",33.8,-1.6425,FALSE,"Governance hurdle + need",0
+"Zimbabwe","ZWE","Sub-Saharan Africa","Lower middle income",62.4,-1.2692,FALSE,"Governance hurdle + need",0
+"India","IND","South Asia","Lower middle income",23.3,-0.298,TRUE,"Growth (policy-weighted)",709.6006
+"Ethiopia","ETH","Sub-Saharan Africa","Low income",34.5,-0.4336,TRUE,"Growth (policy-weighted)",51.6974
+"Tanzania","TZA","Sub-Saharan Africa","Lower middle income",28.7,-0.3115,TRUE,"Growth (policy-weighted)",32.8439
+"Ghana","GHA","Sub-Saharan Africa","Lower middle income",27.5,-0.1999,TRUE,"Growth (policy-weighted)",19.4154
+"Rwanda","RWA","Sub-Saharan Africa","Low income",29.4,0.6173,TRUE,"Growth (policy-weighted)",19.2928
+"Egypt, Arab Rep.","EGY","Middle East, North Africa, Afghanistan & Pakistan","Lower middle income",20.8,-0.8091,FALSE,"Growth (policy-weighted)",17.8645
+"Cote d'Ivoire","CIV","Sub-Saharan Africa","Lower middle income",44.8,-0.2648,TRUE,"Growth (policy-weighted)",16.4142
+"Senegal","SEN","Sub-Saharan Africa","Lower middle income",28.9,0.1264,TRUE,"Growth (policy-weighted)",15.5616
+"Morocco","MAR","Middle East, North Africa, Afghanistan & Pakistan","Lower middle income",14.7,-0.5141,TRUE,"Growth (policy-weighted)",12.8165
+"Burkina Faso","BFA","Sub-Saharan Africa","Low income",43.6,-0.2401,TRUE,"Growth (policy-weighted)",12.5467
+"Angola","AGO","Sub-Saharan Africa","Lower middle income",32.1,-0.6439,TRUE,"Growth (policy-weighted)",9.5709
+"Kenya","KEN","Sub-Saharan Africa","Lower middle income",34.2,-0.7919,TRUE,"Growth (policy-weighted)",9.2129
+"Zambia","ZMB","Sub-Saharan Africa","Lower middle income",34.6,-0.4242,TRUE,"Growth (policy-weighted)",8.4838
+"Uzbekistan","UZB","Europe & Central Asia","Lower middle income",12.8,-0.7032,TRUE,"Growth (policy-weighted)",7.8535
+"Nepal","NPL","South Asia","Lower middle income",22.2,-0.629,TRUE,"Growth (policy-weighted)",7.768
+"Benin","BEN","Sub-Saharan Africa","Lower middle income",45.2,-0.2357,TRUE,"Growth (policy-weighted)",7.7545
+"Niger","NER","Sub-Saharan Africa","Low income",65.6,-0.6457,TRUE,"Growth (policy-weighted)",6.7982
+"Tunisia","TUN","Middle East, North Africa, Afghanistan & Pakistan","Lower middle income",9.7,-0.2157,TRUE,"Growth (policy-weighted)",6.773
+"Malawi","MWI","Sub-Saharan Africa","Low income",38,-0.6464,TRUE,"Growth (policy-weighted)",5.4356
+"Namibia","NAM","Sub-Saharan Africa","Lower middle income",36.4,0.1677,TRUE,"Growth (policy-weighted)",2.6652
+"Bhutan","BTN","South Asia","Lower middle income",13.7,1.4698,TRUE,"Growth (policy-weighted)",2.0611
+"Togo","TGO","Sub-Saharan Africa","Lower middle income",34.8,-0.6645,TRUE,"Growth (policy-weighted)",2.0157
+"Sierra Leone","SLE","Sub-Saharan Africa","Low income",54.6,-0.6923,TRUE,"Growth (policy-weighted)",1.9239
+"Papua New Guinea","PNG","East Asia & Pacific","Lower middle income",31.3,-0.7961,FALSE,"Growth (policy-weighted)",1.7006
+"Mali","MLI","Sub-Saharan Africa","Low income",47.5,-0.9653,TRUE,"Growth (policy-weighted)",1.6315
+"West Bank and Gaza","PSE","Middle East, North Africa, Afghanistan & Pakistan","Lower middle income",17,-0.5699,TRUE,"Growth (policy-weighted)",1.5858
+"Gambia, The","GMB","Sub-Saharan Africa","Low income",32.7,-0.3007,TRUE,"Growth (policy-weighted)",1.3443
+"Lesotho","LSO","Sub-Saharan Africa","Lower middle income",56.3,-0.3107,TRUE,"Growth (policy-weighted)",1.1213
+"Madagascar","MDG","Sub-Saharan Africa","Low income",43,-1.028,TRUE,"Growth (policy-weighted)",1.0779
+"Mozambique","MOZ","Sub-Saharan Africa","Low income",43.7,-1.0432,TRUE,"Growth (policy-weighted)",0.8964
+"Pakistan","PAK","Middle East, North Africa, Afghanistan & Pakistan","Lower middle income",48.2,-1.0885,FALSE,"Growth (policy-weighted)",0.7355
+"Bolivia","BOL","Latin America & Caribbean","Lower middle income",14.2,-0.9894,FALSE,"Growth (policy-weighted)",0.6685
+"Timor-Leste","TLS","East Asia & Pacific","Lower middle income",34.6,-0.3717,TRUE,"Growth (policy-weighted)",0.6096
+"Solomon Islands","SLB","East Asia & Pacific","Lower middle income",16.4,-0.1388,TRUE,"Growth (policy-weighted)",0.5017
+"Lao PDR","LAO","East Asia & Pacific","Lower middle income",27.2,-0.9959,FALSE,"Growth (policy-weighted)",0.3918
+"Mauritania","MRT","Sub-Saharan Africa","Lower middle income",30.2,-0.9764,FALSE,"Growth (policy-weighted)",0.3141
+"Vanuatu","VUT","East Asia & Pacific","Lower middle income",14.4,-0.1452,TRUE,"Growth (policy-weighted)",0.1991
+"Sao Tome and Principe","STP","Sub-Saharan Africa","Lower middle income",9.2,0.108,TRUE,"Growth (policy-weighted)",0.1941
+"Eswatini","SWZ","Sub-Saharan Africa","Lower middle income",42.2,-0.8072,FALSE,"Growth (policy-weighted)",0.1919
+"Liberia","LBR","Sub-Saharan Africa","Low income",63.2,-1.0275,TRUE,"Growth (policy-weighted)",0.1906
+"Kiribati","KIR","East Asia & Pacific","Lower middle income",38.8,0.3783,TRUE,"Growth (policy-weighted)",0.1464
+"Djibouti","DJI","Middle East, North Africa, Afghanistan & Pakistan","Lower middle income",43,-0.8851,FALSE,"Growth (policy-weighted)",0.1289
+"Afghanistan","AFG","Middle East, North Africa, Afghanistan & Pakistan","Low income",48.3,-1.3031,FALSE,"Growth (policy-weighted)",0
+"Burundi","BDI","Sub-Saharan Africa","Low income",30.5,-1.4598,FALSE,"Growth (policy-weighted)",0
+"Bangladesh","BGD","South Asia","Lower middle income",24.4,-1.0975,FALSE,"Growth (policy-weighted)",0
+"Central African Republic","CAF","Sub-Saharan Africa","Low income",58.8,-1.3086,FALSE,"Growth (policy-weighted)",0
+"Cameroon","CMR","Sub-Saharan Africa","Lower middle income",40.2,-1.2152,FALSE,"Growth (policy-weighted)",0
+"Congo, Dem. Rep.","COD","Sub-Saharan Africa","Low income",56.4,-1.518,FALSE,"Growth (policy-weighted)",0
+"Congo, Rep.","COG","Sub-Saharan Africa","Lower middle income",27,-1.4201,FALSE,"Growth (policy-weighted)",0
+"Comoros","COM","Sub-Saharan Africa","Lower middle income",35,-1.1414,FALSE,"Growth (policy-weighted)",0
+"Eritrea","ERI","Sub-Saharan Africa","Low income",24.7,-1.6323,FALSE,"Growth (policy-weighted)",0
+"Guinea","GIN","Sub-Saharan Africa","Lower middle income",59.8,-1.1814,FALSE,"Growth (policy-weighted)",0
+"Guinea-Bissau","GNB","Sub-Saharan Africa","Low income",42.1,-1.3481,FALSE,"Growth (policy-weighted)",0
+"Honduras","HND","Latin America & Caribbean","Lower middle income",12.8,-1.2318,FALSE,"Growth (policy-weighted)",0
+"Haiti","HTI","Latin America & Caribbean","Lower middle income",39,-1.5368,FALSE,"Growth (policy-weighted)",0
+"Kyrgyz Republic","KGZ","Europe & Central Asia","Lower middle income",14.8,-1.148,FALSE,"Growth (policy-weighted)",0
+"Cambodia","KHM","East Asia & Pacific","Lower middle income",16.4,-1.2334,FALSE,"Growth (policy-weighted)",0
+"Lebanon","LBN","Middle East, North Africa, Afghanistan & Pakistan","Lower middle income",15.3,-1.3068,FALSE,"Growth (policy-weighted)",0
+"Myanmar","MMR","East Asia & Pacific","Lower middle income",32.8,-1.2487,FALSE,"Growth (policy-weighted)",0
+"Nigeria","NGA","Sub-Saharan Africa","Lower middle income",69.8,-1.1143,FALSE,"Growth (policy-weighted)",0
+"Nicaragua","NIC","Latin America & Caribbean","Lower middle income",9.4,-1.4251,FALSE,"Growth (policy-weighted)",0
+"Korea, Dem. People's Rep.","PRK","East Asia & Pacific","Low income",13.3,-1.5581,FALSE,"Growth (policy-weighted)",0
+"Sudan","SDN","Sub-Saharan Africa","Low income",42.9,-1.5615,FALSE,"Growth (policy-weighted)",0
+"Somalia, Fed. Rep.","SOM","Sub-Saharan Africa","Low income",65.4,-1.7859,FALSE,"Growth (policy-weighted)",0
+"South Sudan","SSD","Sub-Saharan Africa","Low income",71.9,-2.0559,FALSE,"Growth (policy-weighted)",0
+"Syrian Arab Republic","SYR","Middle East, North Africa, Afghanistan & Pakistan","Low income",17.7,-1.701,FALSE,"Growth (policy-weighted)",0
+"Chad","TCD","Sub-Saharan Africa","Low income",56.3,-1.3931,FALSE,"Growth (policy-weighted)",0
+"Tajikistan","TJK","Europe & Central Asia","Lower middle income",23.5,-1.2325,FALSE,"Growth (policy-weighted)",0
+"Uganda","UGA","Sub-Saharan Africa","Low income",35.9,-1.1204,TRUE,"Growth (policy-weighted)",0
+"Venezuela, RB","VEN","Latin America & Caribbean","Lower middle income",21.2,-1.5794,FALSE,"Growth (policy-weighted)",0
+"Yemen, Rep.","YEM","Middle East, North Africa, Afghanistan & Pakistan","Low income",33.8,-1.6425,FALSE,"Growth (policy-weighted)",0
+"Zimbabwe","ZWE","Sub-Saharan Africa","Lower middle income",62.4,-1.2692,FALSE,"Growth (policy-weighted)",0
+"Nigeria","NGA","Sub-Saharan Africa","Lower middle income",69.8,-1.1143,FALSE,"Need",330.6167
+"Pakistan","PAK","Middle East, North Africa, Afghanistan & Pakistan","Lower middle income",48.2,-1.0885,FALSE,"Need",168.7891
+"Congo, Dem. Rep.","COD","Sub-Saharan Africa","Low income",56.4,-1.518,FALSE,"Need",104.4846
+"Niger","NER","Sub-Saharan Africa","Low income",65.6,-0.6457,TRUE,"Need",34.4728
+"Afghanistan","AFG","Middle East, North Africa, Afghanistan & Pakistan","Low income",48.3,-1.3031,FALSE,"Need",28.7962
+"Ethiopia","ETH","Sub-Saharan Africa","Low income",34.5,-0.4336,TRUE,"Need",25.9606
+"Sudan","SDN","Sub-Saharan Africa","Low income",42.9,-1.5615,FALSE,"Need",24.6152
+"Somalia, Fed. Rep.","SOM","Sub-Saharan Africa","Low income",65.4,-1.7859,FALSE,"Need",24.1094
+"Zimbabwe","ZWE","Sub-Saharan Africa","Lower middle income",62.4,-1.2692,FALSE,"Need",19.3666
+"Chad","TCD","Sub-Saharan Africa","Low income",56.3,-1.3931,FALSE,"Need",19.3386
+"Mozambique","MOZ","Sub-Saharan Africa","Low income",43.7,-1.0432,TRUE,"Need",17.8586
+"South Sudan","SSD","Sub-Saharan Africa","Low income",71.9,-2.0559,FALSE,"Need",17.8404
+"Cote d'Ivoire","CIV","Sub-Saharan Africa","Lower middle income",44.8,-0.2648,TRUE,"Need",17.6859
+"Mali","MLI","Sub-Saharan Africa","Low income",47.5,-0.9653,TRUE,"Need",15.8491
+"Guinea","GIN","Sub-Saharan Africa","Lower middle income",59.8,-1.1814,FALSE,"Need",15.8477
+"Madagascar","MDG","Sub-Saharan Africa","Low income",43,-1.028,TRUE,"Need",15.7073
+"Uganda","UGA","Sub-Saharan Africa","Low income",35.9,-1.1204,TRUE,"Need",12.2606
+"Burkina Faso","BFA","Sub-Saharan Africa","Low income",43.6,-0.2401,TRUE,"Need",12.0617
+"Cameroon","CMR","Sub-Saharan Africa","Lower middle income",40.2,-1.2152,FALSE,"Need",11.4829
+"Kenya","KEN","Sub-Saharan Africa","Lower middle income",34.2,-0.7919,TRUE,"Need",10.5065
+"Benin","BEN","Sub-Saharan Africa","Lower middle income",45.2,-0.2357,TRUE,"Need",8.2104
+"Sierra Leone","SLE","Sub-Saharan Africa","Low income",54.6,-0.6923,TRUE,"Need",7.7236
+"Myanmar","MMR","East Asia & Pacific","Lower middle income",32.8,-1.2487,FALSE,"Need",7.5003
+"Yemen, Rep.","YEM","Middle East, North Africa, Afghanistan & Pakistan","Low income",33.8,-1.6425,FALSE,"Need",6.9926
+"Malawi","MWI","Sub-Saharan Africa","Low income",38,-0.6464,TRUE,"Need",6.8858
+"Liberia","LBR","Sub-Saharan Africa","Low income",63.2,-1.0275,TRUE,"Need",6.6905
+"Central African Republic","CAF","Sub-Saharan Africa","Low income",58.8,-1.3086,FALSE,"Need",5.5407
+"Angola","AGO","Sub-Saharan Africa","Lower middle income",32.1,-0.6439,TRUE,"Need",4.294
+"Zambia","ZMB","Sub-Saharan Africa","Lower middle income",34.6,-0.4242,TRUE,"Need",4.2641
+"Haiti","HTI","Latin America & Caribbean","Lower middle income",39,-1.5368,FALSE,"Need",4.1517
+"Lesotho","LSO","Sub-Saharan Africa","Lower middle income",56.3,-0.3107,TRUE,"Need",2.2268
+"Togo","TGO","Sub-Saharan Africa","Lower middle income",34.8,-0.6645,TRUE,"Need",1.74
+"Guinea-Bissau","GNB","Sub-Saharan Africa","Low income",42.1,-1.3481,FALSE,"Need",1.013
+"Papua New Guinea","PNG","East Asia & Pacific","Lower middle income",31.3,-0.7961,FALSE,"Need",0.9053
+"Burundi","BDI","Sub-Saharan Africa","Low income",30.5,-1.4598,FALSE,"Need",0.8126
+"Namibia","NAM","Sub-Saharan Africa","Lower middle income",36.4,0.1677,TRUE,"Need",0.7954
+"Eswatini","SWZ","Sub-Saharan Africa","Lower middle income",42.2,-0.8072,FALSE,"Need",0.5762
+"Djibouti","DJI","Middle East, North Africa, Afghanistan & Pakistan","Lower middle income",43,-0.8851,FALSE,"Need",0.5743
+"Gambia, The","GMB","Sub-Saharan Africa","Low income",32.7,-0.3007,TRUE,"Need",0.3703
+"Rwanda","RWA","Sub-Saharan Africa","Low income",29.4,0.6173,TRUE,"Need",0.2808
+"Timor-Leste","TLS","East Asia & Pacific","Lower middle income",34.6,-0.3717,TRUE,"Need",0.2802
+"Mauritania","MRT","Sub-Saharan Africa","Lower middle income",30.2,-0.9764,FALSE,"Need",0.2453
+"Comoros","COM","Sub-Saharan Africa","Lower middle income",35,-1.1414,FALSE,"Need",0.1854
+"Kiribati","KIR","East Asia & Pacific","Lower middle income",38.8,0.3783,TRUE,"Need",0.0465
+"Senegal","SEN","Sub-Saharan Africa","Lower middle income",28.9,0.1264,TRUE,"Need",0.0436
+"Bangladesh","BGD","South Asia","Lower middle income",24.4,-1.0975,FALSE,"Need",0
+"Bolivia","BOL","Latin America & Caribbean","Lower middle income",14.2,-0.9894,FALSE,"Need",0
+"Bhutan","BTN","South Asia","Lower middle income",13.7,1.4698,TRUE,"Need",0
+"Congo, Rep.","COG","Sub-Saharan Africa","Lower middle income",27,-1.4201,FALSE,"Need",0
+"Egypt, Arab Rep.","EGY","Middle East, North Africa, Afghanistan & Pakistan","Lower middle income",20.8,-0.8091,FALSE,"Need",0
+"Eritrea","ERI","Sub-Saharan Africa","Low income",24.7,-1.6323,FALSE,"Need",0
+"Ghana","GHA","Sub-Saharan Africa","Lower middle income",27.5,-0.1999,TRUE,"Need",0
+"Honduras","HND","Latin America & Caribbean","Lower middle income",12.8,-1.2318,FALSE,"Need",0
+"India","IND","South Asia","Lower middle income",23.3,-0.298,TRUE,"Need",0
+"Kyrgyz Republic","KGZ","Europe & Central Asia","Lower middle income",14.8,-1.148,FALSE,"Need",0
+"Cambodia","KHM","East Asia & Pacific","Lower middle income",16.4,-1.2334,FALSE,"Need",0
+"Lao PDR","LAO","East Asia & Pacific","Lower middle income",27.2,-0.9959,FALSE,"Need",0
+"Lebanon","LBN","Middle East, North Africa, Afghanistan & Pakistan","Lower middle income",15.3,-1.3068,FALSE,"Need",0
+"Morocco","MAR","Middle East, North Africa, Afghanistan & Pakistan","Lower middle income",14.7,-0.5141,TRUE,"Need",0
+"Nicaragua","NIC","Latin America & Caribbean","Lower middle income",9.4,-1.4251,FALSE,"Need",0
+"Nepal","NPL","South Asia","Lower middle income",22.2,-0.629,TRUE,"Need",0
+"Korea, Dem. People's Rep.","PRK","East Asia & Pacific","Low income",13.3,-1.5581,FALSE,"Need",0
+"West Bank and Gaza","PSE","Middle East, North Africa, Afghanistan & Pakistan","Lower middle income",17,-0.5699,TRUE,"Need",0
+"Solomon Islands","SLB","East Asia & Pacific","Lower middle income",16.4,-0.1388,TRUE,"Need",0
+"Sao Tome and Principe","STP","Sub-Saharan Africa","Lower middle income",9.2,0.108,TRUE,"Need",0
+"Syrian Arab Republic","SYR","Middle East, North Africa, Afghanistan & Pakistan","Low income",17.7,-1.701,FALSE,"Need",0
+"Tajikistan","TJK","Europe & Central Asia","Lower middle income",23.5,-1.2325,FALSE,"Need",0
+"Tunisia","TUN","Middle East, North Africa, Afghanistan & Pakistan","Lower middle income",9.7,-0.2157,TRUE,"Need",0
+"Tanzania","TZA","Sub-Saharan Africa","Lower middle income",28.7,-0.3115,TRUE,"Need",0
+"Uzbekistan","UZB","Europe & Central Asia","Lower middle income",12.8,-0.7032,TRUE,"Need",0
+"Venezuela, RB","VEN","Latin America & Caribbean","Lower middle income",21.2,-1.5794,FALSE,"Need",0
+"Vanuatu","VUT","East Asia & Pacific","Lower middle income",14.4,-0.1452,TRUE,"Need",0

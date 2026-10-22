@@ -1,0 +1,73 @@
+"country","iso3c","group","region","cc_est","cc_se","p_pass","official_pass","median_est","median_sd","status","coin_flip"
+"Burkina Faso","BFA","Low income","Sub-Saharan Africa",-0.2401,0.1599,1,TRUE,-1.3031,0.0762,"Clear pass (90%+)",FALSE
+"Ethiopia","ETH","Low income","Sub-Saharan Africa",-0.4336,0.1613,1,TRUE,-1.3031,0.0762,"Clear pass (90%+)",FALSE
+"Gambia, The","GMB","Low income","Sub-Saharan Africa",-0.3007,0.1599,1,TRUE,-1.3031,0.0762,"Clear pass (90%+)",FALSE
+"Rwanda","RWA","Low income","Sub-Saharan Africa",0.6173,0.1627,1,TRUE,-1.3031,0.0762,"Clear pass (90%+)",FALSE
+"Malawi","MWI","Low income","Sub-Saharan Africa",-0.6464,0.1563,0.9995,TRUE,-1.3031,0.0762,"Clear pass (90%+)",FALSE
+"Niger","NER","Low income","Sub-Saharan Africa",-0.6457,0.1613,0.9994,TRUE,-1.3031,0.0762,"Clear pass (90%+)",FALSE
+"Sierra Leone","SLE","Low income","Sub-Saharan Africa",-0.6923,0.1551,0.9981,TRUE,-1.3031,0.0762,"Clear pass (90%+)",FALSE
+"Mali","MLI","Low income","Sub-Saharan Africa",-0.9653,0.1551,0.9218,TRUE,-1.3031,0.0762,"Clear pass (90%+)",FALSE
+"Liberia","LBR","Low income","Sub-Saharan Africa",-1.0275,0.1563,0.8509,TRUE,-1.3031,0.0762,"Uncertain (10-90%)",FALSE
+"Madagascar","MDG","Low income","Sub-Saharan Africa",-1.028,0.1599,0.8336,TRUE,-1.3031,0.0762,"Uncertain (10-90%)",FALSE
+"Mozambique","MOZ","Low income","Sub-Saharan Africa",-1.0432,0.1613,0.8181,TRUE,-1.3031,0.0762,"Uncertain (10-90%)",FALSE
+"Uganda","UGA","Low income","Sub-Saharan Africa",-1.1204,0.1563,0.6605,TRUE,-1.3031,0.0762,"Uncertain (10-90%)",TRUE
+"Central African Republic","CAF","Low income","Sub-Saharan Africa",-1.3086,0.1909,0.2341,FALSE,-1.3031,0.0762,"Uncertain (10-90%)",FALSE
+"Afghanistan","AFG","Low income","Middle East, North Africa, Afghanistan & Pakistan",-1.3031,0.1769,0.2302,FALSE,-1.3031,0.0762,"Uncertain (10-90%)",FALSE
+"Guinea-Bissau","GNB","Low income","Sub-Saharan Africa",-1.3481,0.2102,0.2022,FALSE,-1.3031,0.0762,"Uncertain (10-90%)",FALSE
+"Chad","TCD","Low income","Sub-Saharan Africa",-1.3931,0.1816,0.1094,FALSE,-1.3031,0.0762,"Uncertain (10-90%)",FALSE
+"Burundi","BDI","Low income","Sub-Saharan Africa",-1.4598,0.1849,0.0594,FALSE,-1.3031,0.0762,"Clear fail (10% or less)",FALSE
+"Korea, Dem. People's Rep.","PRK","Low income","East Asia & Pacific",-1.5581,0.2083,0.0349,FALSE,-1.3031,0.0762,"Clear fail (10% or less)",FALSE
+"Congo, Dem. Rep.","COD","Low income","Sub-Saharan Africa",-1.518,0.1566,0.0137,FALSE,-1.3031,0.0762,"Clear fail (10% or less)",FALSE
+"Eritrea","ERI","Low income","Sub-Saharan Africa",-1.6323,0.1932,0.011,FALSE,-1.3031,0.0762,"Clear fail (10% or less)",FALSE
+"Sudan","SDN","Low income","Sub-Saharan Africa",-1.5615,0.1618,0.0095,FALSE,-1.3031,0.0762,"Clear fail (10% or less)",FALSE
+"Yemen, Rep.","YEM","Low income","Middle East, North Africa, Afghanistan & Pakistan",-1.6425,0.1882,0.0077,FALSE,-1.3031,0.0762,"Clear fail (10% or less)",FALSE
+"Syrian Arab Republic","SYR","Low income","Middle East, North Africa, Afghanistan & Pakistan",-1.701,0.2016,0.0051,FALSE,-1.3031,0.0762,"Clear fail (10% or less)",FALSE
+"Somalia, Fed. Rep.","SOM","Low income","Sub-Saharan Africa",-1.7859,0.1833,9e-04,FALSE,-1.3031,0.0762,"Clear fail (10% or less)",FALSE
+"South Sudan","SSD","Low income","Sub-Saharan Africa",-2.0559,0.2218,0,FALSE,-1.3031,0.0762,"Clear fail (10% or less)",FALSE
+"Bhutan","BTN","Lower middle income","South Asia",1.4698,0.2011,1,TRUE,-0.7961,0.0596,"Clear pass (90%+)",FALSE
+"Namibia","NAM","Lower middle income","Sub-Saharan Africa",0.1677,0.1599,1,TRUE,-0.7961,0.0596,"Clear pass (90%+)",FALSE
+"Senegal","SEN","Lower middle income","Sub-Saharan Africa",0.1264,0.1551,1,TRUE,-0.7961,0.0596,"Clear pass (90%+)",FALSE
+"Sao Tome and Principe","STP","Lower middle income","Sub-Saharan Africa",0.108,0.2081,1,TRUE,-0.7961,0.0596,"Clear pass (90%+)",FALSE
+"Ghana","GHA","Lower middle income","Sub-Saharan Africa",-0.1999,0.1485,0.9998,TRUE,-0.7961,0.0596,"Clear pass (90%+)",FALSE
+"Kiribati","KIR","Lower middle income","East Asia & Pacific",0.3783,0.3571,0.9995,TRUE,-0.7961,0.0596,"Clear pass (90%+)",FALSE
+"Tunisia","TUN","Lower middle income","Middle East, North Africa, Afghanistan & Pakistan",-0.2157,0.1642,0.9995,TRUE,-0.7961,0.0596,"Clear pass (90%+)",FALSE
+"Cote d'Ivoire","CIV","Lower middle income","Sub-Saharan Africa",-0.2648,0.1551,0.9994,TRUE,-0.7961,0.0596,"Clear pass (90%+)",FALSE
+"Benin","BEN","Lower middle income","Sub-Saharan Africa",-0.2357,0.1609,0.999,TRUE,-0.7961,0.0596,"Clear pass (90%+)",FALSE
+"Tanzania","TZA","Lower middle income","Sub-Saharan Africa",-0.3115,0.1551,0.9978,TRUE,-0.7961,0.0596,"Clear pass (90%+)",FALSE
+"India","IND","Lower middle income","South Asia",-0.298,0.159,0.9977,TRUE,-0.7961,0.0596,"Clear pass (90%+)",FALSE
+"Lesotho","LSO","Lower middle income","Sub-Saharan Africa",-0.3107,0.1792,0.9941,TRUE,-0.7961,0.0596,"Clear pass (90%+)",FALSE
+"Vanuatu","VUT","Lower middle income","East Asia & Pacific",-0.1452,0.2743,0.9883,TRUE,-0.7961,0.0596,"Clear pass (90%+)",FALSE
+"Solomon Islands","SLB","Lower middle income","East Asia & Pacific",-0.1388,0.2814,0.9869,TRUE,-0.7961,0.0596,"Clear pass (90%+)",FALSE
+"Zambia","ZMB","Lower middle income","Sub-Saharan Africa",-0.4242,0.1563,0.9836,TRUE,-0.7961,0.0596,"Clear pass (90%+)",FALSE
+"Timor-Leste","TLS","Lower middle income","East Asia & Pacific",-0.3717,0.2077,0.9729,TRUE,-0.7961,0.0596,"Clear pass (90%+)",FALSE
+"Morocco","MAR","Lower middle income","Middle East, North Africa, Afghanistan & Pakistan",-0.5141,0.1651,0.9341,TRUE,-0.7961,0.0596,"Clear pass (90%+)",FALSE
+"Nepal","NPL","Lower middle income","South Asia",-0.629,0.1684,0.8014,TRUE,-0.7961,0.0596,"Uncertain (10-90%)",FALSE
+"West Bank and Gaza","PSE","Lower middle income","Middle East, North Africa, Afghanistan & Pakistan",-0.5699,0.2439,0.7946,TRUE,-0.7961,0.0596,"Uncertain (10-90%)",FALSE
+"Angola","AGO","Lower middle income","Sub-Saharan Africa",-0.6439,0.1655,0.7724,TRUE,-0.7961,0.0596,"Uncertain (10-90%)",FALSE
+"Togo","TGO","Lower middle income","Sub-Saharan Africa",-0.6645,0.1599,0.7411,TRUE,-0.7961,0.0596,"Uncertain (10-90%)",FALSE
+"Uzbekistan","UZB","Lower middle income","Europe & Central Asia",-0.7032,0.1626,0.6471,TRUE,-0.7961,0.0596,"Uncertain (10-90%)",TRUE
+"Papua New Guinea","PNG","Lower middle income","East Asia & Pacific",-0.7961,0.1894,0.4352,FALSE,-0.7961,0.0596,"Uncertain (10-90%)",TRUE
+"Kenya","KEN","Lower middle income","Sub-Saharan Africa",-0.7919,0.1496,0.431,TRUE,-0.7961,0.0596,"Uncertain (10-90%)",TRUE
+"Eswatini","SWZ","Lower middle income","Sub-Saharan Africa",-0.8072,0.1949,0.4115,FALSE,-0.7961,0.0596,"Uncertain (10-90%)",TRUE
+"Egypt, Arab Rep.","EGY","Lower middle income","Middle East, North Africa, Afghanistan & Pakistan",-0.8091,0.1689,0.3959,FALSE,-0.7961,0.0596,"Uncertain (10-90%)",TRUE
+"Djibouti","DJI","Lower middle income","Middle East, North Africa, Afghanistan & Pakistan",-0.8851,0.1932,0.2589,FALSE,-0.7961,0.0596,"Uncertain (10-90%)",FALSE
+"Lao PDR","LAO","Lower middle income","East Asia & Pacific",-0.9959,0.1917,0.1085,FALSE,-0.7961,0.0596,"Uncertain (10-90%)",FALSE
+"Bolivia","BOL","Lower middle income","Latin America & Caribbean",-0.9894,0.1684,0.0932,FALSE,-0.7961,0.0596,"Clear fail (10% or less)",FALSE
+"Mauritania","MRT","Lower middle income","Sub-Saharan Africa",-0.9764,0.162,0.0924,FALSE,-0.7961,0.0596,"Clear fail (10% or less)",FALSE
+"Comoros","COM","Lower middle income","Sub-Saharan Africa",-1.1414,0.2534,0.0652,FALSE,-0.7961,0.0596,"Clear fail (10% or less)",FALSE
+"Bangladesh","BGD","Lower middle income","South Asia",-1.0975,0.1617,0.0248,FALSE,-0.7961,0.0596,"Clear fail (10% or less)",FALSE
+"Pakistan","PAK","Lower middle income","Middle East, North Africa, Afghanistan & Pakistan",-1.0885,0.1621,0.0229,FALSE,-0.7961,0.0596,"Clear fail (10% or less)",FALSE
+"Nigeria","NGA","Lower middle income","Sub-Saharan Africa",-1.1143,0.1537,0.0133,FALSE,-0.7961,0.0596,"Clear fail (10% or less)",FALSE
+"Kyrgyz Republic","KGZ","Lower middle income","Europe & Central Asia",-1.148,0.1684,0.0126,FALSE,-0.7961,0.0596,"Clear fail (10% or less)",FALSE
+"Tajikistan","TJK","Lower middle income","Europe & Central Asia",-1.2325,0.1911,0.0076,FALSE,-0.7961,0.0596,"Clear fail (10% or less)",FALSE
+"Guinea","GIN","Lower middle income","Sub-Saharan Africa",-1.1814,0.1563,0.0042,FALSE,-0.7961,0.0596,"Clear fail (10% or less)",FALSE
+"Cambodia","KHM","Lower middle income","East Asia & Pacific",-1.2334,0.1682,0.0035,FALSE,-0.7961,0.0596,"Clear fail (10% or less)",FALSE
+"Myanmar","MMR","Lower middle income","East Asia & Pacific",-1.2487,0.1727,0.0034,FALSE,-0.7961,0.0596,"Clear fail (10% or less)",FALSE
+"Honduras","HND","Lower middle income","Latin America & Caribbean",-1.2318,0.1632,0.003,FALSE,-0.7961,0.0596,"Clear fail (10% or less)",FALSE
+"Cameroon","CMR","Lower middle income","Sub-Saharan Africa",-1.2152,0.1551,0.0022,FALSE,-0.7961,0.0596,"Clear fail (10% or less)",FALSE
+"Lebanon","LBN","Lower middle income","Middle East, North Africa, Afghanistan & Pakistan",-1.3068,0.1726,9e-04,FALSE,-0.7961,0.0596,"Clear fail (10% or less)",FALSE
+"Zimbabwe","ZWE","Lower middle income","Sub-Saharan Africa",-1.2692,0.1563,6e-04,FALSE,-0.7961,0.0596,"Clear fail (10% or less)",FALSE
+"Congo, Rep.","COG","Lower middle income","Sub-Saharan Africa",-1.4201,0.165,0,FALSE,-0.7961,0.0596,"Clear fail (10% or less)",FALSE
+"Haiti","HTI","Lower middle income","Latin America & Caribbean",-1.5368,0.1699,0,FALSE,-0.7961,0.0596,"Clear fail (10% or less)",FALSE
+"Nicaragua","NIC","Lower middle income","Latin America & Caribbean",-1.4251,0.1667,0,FALSE,-0.7961,0.0596,"Clear fail (10% or less)",FALSE
+"Venezuela, RB","VEN","Lower middle income","Latin America & Caribbean",-1.5794,0.164,0,FALSE,-0.7961,0.0596,"Clear fail (10% or less)",FALSE
